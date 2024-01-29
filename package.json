@@ -1,0 +1,13 @@
+{
+        "name": "mindmap_server",
+        "module": "index.js",
+        "type": "module",
+        "scripts": {
+                "start": "node index.js"
+        },
+        "dependencies": {
+                "cors": "^2.8.5",
+                "dotenv": "^16.3.1",
+                "json-server": "^0.17.4"
+        }
+}
